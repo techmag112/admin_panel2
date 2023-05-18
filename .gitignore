@@ -1,0 +1,14 @@
+*.log
+*.jar
+*.class
+*.zip
+*.rar
+.idea
+.vscode
+.suo
+*.ntvs*
+*.njspoj
+*.sln
+*.sw?
+/temp
+/vendor
